@@ -4,7 +4,7 @@ PROJECT: AgriSense
 AgriSense aims to revolutionize farming practices by providing personalized crop recommendations based on soil type, temperature, and soil nutrient levels, specifically phosphorus and nitrogen.<br>
 By leveraging data science and machine learning techniques, this system assists farmers and agricultural professionals in making informed decisions, ultimately enhancing crop productivity and sustainability.<br><br>
 
-The project addresses the current challenges faced by farmers, including limited access to expert advice, soil nutrient imbalances, and climate variability. Through the development of a user-friendly <br>
+The project addresses the current challenges faced by farmers, including limited access to expert advice, soil nutrient imbalances, and climate variability. Through the development of a user-friendly
 web application, farmers can input their soil and environmental parameters to receive tailored crop suggestions in real-time.<br>
 Firstly, Farmers need to get their land's soil lab tested to get the soil's nutrient values based on which the web application will tell the farmer what crop to grow on their land.<br><br>
 
