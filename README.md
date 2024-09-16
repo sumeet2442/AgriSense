@@ -5,7 +5,7 @@ AgriSense aims to revolutionize farming practices by providing personalized crop
 By leveraging data science and machine learning techniques, this system assists farmers and agricultural professionals in making informed decisions, ultimately enhancing crop productivity and sustainability.<br><br>
 
 The project addresses the current challenges faced by farmers, including limited access to expert advice, soil nutrient imbalances, and climate variability. Through the development of a user-friendly
-web application, farmers can input their soil and environmental parameters to receive tailored crop suggestions in real-time.<br>
+web application, farmers can input their soil and environmental parameters to receive tailored crop suggestions in real-time.<br><br>
 Firstly, Farmers need to get their land's soil lab tested to get the soil's nutrient values based on which the web application will tell the farmer what crop to grow on their land.<br><br>
 
 Screenshots
@@ -16,6 +16,7 @@ Screenshots
 <img src="Screenshots/Agri_Recommendation.png"/> 
 
 <br>
+
 How to use
 ---------
 1. Get the soil nutrients level from the lab.
